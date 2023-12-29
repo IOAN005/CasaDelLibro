@@ -1,2 +1,5 @@
-package com.corenetworks.persistencia;public class AccesoLibros {
+package com.corenetworks.persistencia;
+
+public class AccesoLibros extends Conexion{
+
 }
